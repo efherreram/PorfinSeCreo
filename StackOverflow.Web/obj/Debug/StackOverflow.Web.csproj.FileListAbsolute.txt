@@ -50,3 +50,14 @@ C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\Newtonsoft
 C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\obj\Debug\StackOverflow.Web.csprojResolveAssemblyReference.cache
 C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\obj\Debug\StackOverflow.Web.dll
 C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\obj\Debug\StackOverflow.Web.pdb
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\AutoMapper.Net4.dll
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\AutoMapper.dll
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\StackOverflow.Domain.dll
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\StackOverflow.Domain.pdb
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\AutoMapper.pdb
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\AutoMapper.xml
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\AutoMapper.Net4.pdb
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\Autofac.dll
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\Autofac.xml
+C:\Users\Edwin\Documents\Progra 4\StackOverflow\StackOverflow.Web\bin\Autofac.Integration.Mvc.xml

@@ -1,4 +1,5 @@
 using System;
+using StackOverflow.Domain.Entities;
 
 namespace StackOverflow.Domain.Entities
 {
@@ -12,6 +13,7 @@ namespace StackOverflow.Domain.Entities
         {
             Id = Guid.NewGuid();
         }
+
         
     }
 }

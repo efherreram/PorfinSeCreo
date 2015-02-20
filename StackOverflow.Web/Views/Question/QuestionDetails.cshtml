@@ -1,0 +1,43 @@
+﻿@model StackOverflow.Web.Models.QuestionDetailsModel
+
+@{
+    ViewBag.Title = "QuestionDetails";
+}
+
+<h2>QuestionDetails</h2>
+
+<div>
+    <h4>QuestionDetailsModel</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <font size="6"><b>@Html.DisplayNameFor(model => model.Title)</b></font>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            <b>@Html.DisplayNameFor(model => model.Description)</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Score)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Score)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {/* id = Model.PrimaryKey */}) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
